@@ -1,3 +1,3 @@
-main() {
-  print("Hello");
+void main() {
+  const pear = "extraordinaire";
 }
